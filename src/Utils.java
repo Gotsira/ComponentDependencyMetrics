@@ -48,24 +48,6 @@ public class Utils {
   } catch (Exception e) {
    return;
   }
-
-  // File jcdFile = new
-  // File("/Users/ton/Desktop/temp/axis2-1.7.8/modules/json/src/org/apache/axis2/json/gson");
-  //
-  // String[] jcdFiles = jcdFile.list();
-  // FileRead read = new FileRead();
-  //
-  // for(String name : jcdFiles) {
-  // System.out.println(name);
-  // }
-  // System.out.println("Files Found: " + jcdFiles.length);
-  //
-  // for (String myFile : jcdFiles) {
-  // if (myFile.contains(".java"))
-  // read.readInFile(jcdFile.toString(), myFile);
-  // }
-  //
-
  }
 
 }
